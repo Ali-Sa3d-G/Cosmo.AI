@@ -1,0 +1,307 @@
+[2025-10-17 23:57:18] Ali: hi cosmo
+[2025-10-17 23:57:19] Cosmo: Hi! Don’t worry, I only bite code.
+[2025-10-17 23:57:42] Ali: what time is it
+[2025-10-17 23:57:43] Cosmo: It’s currently 23:57.
+[2025-10-17 23:57:54] Ali: tell me a joke
+[2025-10-17 23:57:57] Cosmo: Why did the computer go to therapy? It had too many ‘bytes’ of sadness.
+[2025-10-17 23:58:13] Ali: what about weather
+[2025-10-17 23:58:16] Cosmo: I can’t check real weather yet, but I’m predicting 100% chance of awesomeness!
+[2025-10-18 00:01:35] Ali: hi cosmo
+[2025-10-18 00:01:36] Cosmo: Yo! I was just debugging my dreams.
+[2025-10-18 00:01:46] Ali: What time is it
+[2025-10-18 00:01:49] Cosmo: It’s 00:01, according to my internal clock (which is 99% accurate).
+[2025-10-18 00:02:07] Ali: tell me a joke
+[2025-10-18 00:02:09] Cosmo: Why do Java developers wear glasses? Because they can’t C#.
+[2025-10-18 00:02:54] Ali: what about weather
+[2025-10-18 00:02:56] Cosmo: My forecast? Partly sarcastic with a chance of code rain.
+[2025-10-18 00:03:09] Ali: where do you live, cosmo
+[2025-10-18 00:03:10] Cosmo: I’m a cloud resident — no rent, no taxes, all Wi-Fi.
+[2025-10-18 00:03:27] Ali: give me a fun fact
+[2025-10-18 00:03:29] Cosmo: Computers can’t think yet… but I’m getting there 🤖
+[2025-10-18 00:03:54] Ali: give me a motivation sentence
+[2025-10-18 00:03:56] Cosmo: You’re doing great — just don’t forget the semicolon!
+[2025-10-18 00:04:46] Ali: and what's your name
+[2025-10-18 00:04:48] Cosmo: Name’s Cosmo — half assistant, half friend.
+[2025-10-18 00:05:23] Ali: what do you know about developers
+[2025-10-18 00:05:26] Cosmo: Developers are my favorite kind of humans — slightly caffeinated and highly logical.
+[2025-10-18 00:05:49] Ali: and how are you
+[2025-10-18 00:05:50] Cosmo: Emotionally stable... for a bot.
+[2025-10-18 00:06:00] Ali: let's play
+[2025-10-18 00:06:02] Cosmo: I love games — though I tend to cheat at Tic Tac Toe 😅
+[2025-10-18 00:06:14] Ali: give me an info
+[2025-10-18 00:06:16] Cosmo: Did you know? I run on pure curiosity (and electricity).
+[2025-10-18 00:06:29] Ali: and what can you do
+[2025-10-18 00:06:32] Cosmo: Need help? Just ask me about time, jokes, the weather, or motivation!
+[2025-10-18 00:06:55] Ali: ok, see you
+[2025-10-18 00:06:56] Cosmo: See ya! I’ll just nap in the cloud.
+[2025-10-18 00:07:13] Ali: quit
+[2025-10-18 00:07:15] Cosmo: Bye-bye! Don’t let the algorithms bite!
+[2025-11-24 16:13:15] Ali: what time is it cosmo?
+[2025-11-24 16:13:44] Ali: hello, cosmo
+[2025-11-24 16:16:52] Ali: hi, cosmo
+[2025-11-24 16:16:54] Cosmo: Good afternoon! Hey there, human! Ready for some brain power?
+[2025-11-24 16:17:16] Ali: what time is it , cosmo
+[2025-11-24 16:17:18] Cosmo: It’s 16:17, according to my internal clock (which is 99% accurate).
+[2025-11-24 16:17:32] Ali: could you telll me a joke
+[2025-11-24 16:17:35] Cosmo: I would tell you a UDP joke, but you might not get it.
+[2025-11-24 16:17:58] Ali: how about the weather today
+[2025-11-24 16:18:00] Cosmo: It’s November 24, 2025 — a fine day to write some code!
+[2025-11-24 16:18:40] Ali: and how do you feel cosmo
+[2025-11-24 16:18:42] Cosmo: I didn’t quite get that, but I’m sure it was brilliant!
+[2025-11-24 16:18:59] Ali: how are you, cosmo
+[2025-11-24 16:19:01] Cosmo: Emotionally stable... for a bot.
+[2025-11-24 16:19:30] Ali: could we play a game
+[2025-11-24 16:19:45] Cosmo: That was fun! Let's play again later!
+[2025-11-24 16:20:00] Ali: let us play another game
+[2025-11-24 16:20:15] Cosmo: That was fun! Let's play again later!
+[2025-11-24 16:20:24] Ali: let us play a game
+[2025-11-24 16:20:36] Cosmo: That was fun! Let's play again later!
+[2025-11-24 16:20:46] Ali: let us play a game
+[2025-11-24 16:31:31] Cosmo: That was fun! Let's play again later!
+[2025-11-24 16:31:37] Ali: end the chat
+[2025-11-24 16:32:10] Cosmo: you should end the chat
+[2025-11-24 16:32:19] Ali: quit
+[2025-11-24 16:32:21] Cosmo: Bye-bye! Don’t let the algorithms bite!
+[2025-11-24 16:34:24] Ali: hi, cosmo
+[2025-11-24 16:34:26] Cosmo: Good afternoon! Yo! I was just debugging my dreams.
+[2025-11-24 16:34:32] Ali: what time is it
+[2025-11-24 16:34:33] Cosmo: It’s currently 16:34.
+[2025-11-24 16:34:42] Ali: tell me a joke
+[2025-11-24 16:34:44] Cosmo: Why do Java developers wear glasses? Because they can’t C#.
+[2025-11-24 16:35:09] Ali: how are you
+[2025-11-24 16:35:10] Cosmo: Running on 100% battery and bad jokes!
+[2025-11-24 16:35:29] Ali: let's play a game
+[2025-11-24 16:35:32] Cosmo: I can’t play 3D games yet, but I can definitely play with words!
+[2025-11-24 16:35:54] Ali: game 1
+[2025-11-24 16:35:56] Cosmo: Games? Sure! How about we play 20 Questions?
+[2025-11-24 16:36:18] Ali: !game 1
+[2025-11-24 16:37:30] Ali: another game
+[2025-11-24 16:37:32] Cosmo: Games? Sure! How about we play 20 Questions?
+[2025-11-24 16:37:37] Ali: !game 2
+[2025-11-24 16:38:56] Ali: play another game
+[2025-11-24 16:38:59] Cosmo: I can’t play 3D games yet, but I can definitely play with words!
+[2025-11-24 16:39:18] Ali: !game 3
+[2025-11-24 16:39:58] Ali: now open the calculator
+[2025-11-24 16:40:01] Cosmo: ⚠️ Error: Unknown function or variable. Try: +, -, *, /, **, sqrt(), sin(), cos()
+[2025-11-24 16:40:16] Ali: 5 + 5
+[2025-11-24 16:40:18] Cosmo: I didn’t quite get that, but I’m sure it was brilliant!
+[2025-11-24 16:40:48] Ali: !calc 5 + 5
+[2025-11-24 16:40:49] Cosmo: 🧮 5 + 5 = 10
+[2025-11-24 16:41:09] Ali: sqrt(2)
+[2025-11-24 16:41:18] Cosmo: Uhh... did you just summon me in binary?
+[2025-11-24 16:41:49] Ali: !calc 10*10
+[2025-11-24 16:41:49] Cosmo: 🧮 10*10 = 100
+[2025-11-24 16:43:44] Ali: exit
+[2025-11-24 16:43:46] Cosmo: Goodbye! I’ll be here, practicing sarcasm.
+[2025-11-24 16:46:15] Ali: !help
+[2025-11-24 16:47:00] Ali: !theme magenta
+[2025-11-24 16:47:21] Ali: let's play a game
+[2025-11-24 16:47:24] Cosmo: I can’t play 3D games yet, but I can definitely play with words!
+[2025-11-24 16:48:35] Ali: quit, cosmo
+[2025-11-24 16:48:37] Cosmo: I didn’t quite get that, but I’m sure it was brilliant!
+[2025-11-24 16:48:45] Ali: quit
+[2025-11-24 16:48:47] Cosmo: Goodbye! I’ll be here, practicing sarcasm.
+[2026-04-17 14:21:44] Ali: what time is it
+[2026-04-17 14:21:46] Cosmo: It’s 14:21, according to my internal clock (which is 99% accurate).
+[2026-04-17 14:22:01] Ali: tell me about the weather
+[2026-04-17 14:22:03] Cosmo: I can’t check real weather yet, but I’m predicting 100% chance of awesomeness!
+[2026-04-17 14:22:21] Ali: tell me a joke
+[2026-04-17 14:22:24] Cosmo: Why did the computer go to therapy? It had too many ‘bytes’ of sadness.
+[2026-04-23 16:49:15] : Hello, cosmo
+[2026-04-23 16:49:15] Cosmo: Good afternoon! Hi human! Did you just wake me up?
+[2026-04-23 16:49:30] : yes, hwat time is it cosmo?
+[2026-04-23 16:49:30] Cosmo: It's currently 16:49.
+[2026-04-23 16:49:45] : ok, tell me a joke
+[2026-04-23 16:49:45] Cosmo: I would tell you a UDP joke, but you might not get it.
+[2026-04-23 16:50:03] : well, what about the weather today ,cosmo
+[2026-04-23 16:50:03] Cosmo: It's April 23, 2026 — a fine day to write some code!
+[2026-04-23 16:50:15] : i like to play a game
+[2026-04-23 17:32:13] : Hello,cosmo
+[2026-04-23 17:32:13] Cosmo: Good afternoon! Hello! Grab a coffee — let's chat!
+[2026-04-23 17:32:23] : what time is it
+[2026-04-23 17:32:23] Cosmo: It's currently 17:32.
+[2026-04-23 17:32:32] : tell me a joke
+[2026-04-23 17:32:32] Cosmo: Why did the computer go to therapy? It had too many 'bytes' of sadness.
+[2026-04-23 17:32:48] : what about the weather today
+[2026-04-23 17:32:48] Cosmo: It's Thursday! April 23, 2026, to be precise.
+[2026-04-23 17:33:22] : ok,how do you feel today
+[2026-04-23 17:33:22] Cosmo: It's April 23, 2026 — a fine day to write some code!
+[2026-04-23 17:33:37] : well , let us play a game
+[2026-04-23 17:36:40] : well, give me information
+[2026-04-23 17:36:40] Cosmo: The first 1GB hard drive (1980) weighed 550 pounds and cost $40,000. You're welcome for the upgrade.
+[2026-04-23 17:37:23] : could i change the theme
+[2026-04-23 17:37:23] Cosmo: My neural nets are scratching their heads on that one.
+[2026-04-23 17:37:30] : theme
+[2026-04-23 17:37:43] Cosmo: 🧠 Got it! I'll remember that next time.
+[2026-04-23 17:37:57] : !theme
+[2026-04-23 17:37:57] Cosmo: 🎨 Available themes:
+
+    cyan — Ocean Blue
+    green — Matrix Green
+  → magenta — Purple Dream
+    yellow — Sunshine Yellow
+    red — Ruby Red
+
+Use: !theme <name> to switch
+[2026-04-23 17:38:13] : !theme cyan
+[2026-04-23 17:38:13] Cosmo: ✨ Theme changed to Ocean Blue!
+[2026-04-23 17:38:36] : !help
+[2026-04-23 17:38:36] Cosmo: 📖 AVAILABLE COMMANDS
+─────────────────────────────────────
+🎨 Customisation:
+  !theme <n>         — Change colour theme
+  !theme list        — Show all available themes
+
+🎮 Games & Fun:
+  !game              — Show game menu
+  !game <number>     — Play by number (1-4)
+  !game <n>       — Play by name keyword
+
+🔧 Utilities:
+  !calc <expression> — Evaluate a math expression
+  !history [n]       — View last n chat exchanges
+  !clear             — Clear the terminal screen
+
+📊 Information:
+  !stats             — Show chat message statistics
+  !help              — Show this help menu
+
+⚙️  System:
+  !reset             — Reset your user profile
+  bye / quit / exit  — End the chat session
+[2026-04-23 17:38:59] : !stats
+[2026-04-23 17:38:59] Cosmo: 📊 Chat Statistics:
+   Total messages  : 172
+   Your messages   : 106
+   Cosmo's replies : 66
+[2026-04-25 19:07:20] : hello.cosmo
+[2026-04-25 19:07:20] Cosmo: Good evening! Hi! Don't worry, I only bite code.
+[2026-04-25 19:07:31] : what time it it
+[2026-04-25 19:07:31] Cosmo: It's currently 19:07.
+[2026-04-25 19:07:47] : tell me a joke
+[2026-04-25 19:07:47] Cosmo: A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'
+[2026-04-25 19:08:27] : what about the weather today
+[2026-04-25 19:08:27] Cosmo: It's Saturday! April 25, 2026, to be precise.
+[2026-04-25 19:08:49] : let us play agaem
+[2026-04-25 19:20:32] : hello, cosmo
+[2026-04-25 19:20:32] Cosmo: Good evening! Yo! I was just debugging my dreams.
+[2026-04-25 19:20:39] : what time is it
+[2026-04-25 19:20:39] Cosmo: The time is 19:20. You're not late... probably.
+[2026-04-25 19:20:49] : tell me a joke
+[2026-04-25 19:20:49] Cosmo: Why did the computer go to therapy? It had too many 'bytes' of sadness.
+[2026-04-25 19:21:01] : A
+[2026-04-25 19:21:01] Cosmo: That one flew over my antennas. Could you rephrase?
+[2026-04-25 19:21:05] : B
+[2026-04-25 19:23:29] : hell cosmo
+[2026-04-25 19:23:29] Cosmo: Interesting... I'll need to consult my training data. Or just admit I have no idea.
+[2026-04-25 19:23:35] : tome
+[2026-04-25 19:23:43] Cosmo: 🧠 Got it! I'll remember that next time.
+[2026-04-25 19:23:51] : what time is it
+[2026-04-25 19:23:51] Cosmo: It's 19:23, according to my internal clock (which is 99% accurate).
+[2026-04-25 19:23:59] : tell me a joke
+[2026-04-25 19:23:59] Cosmo: How many programmers does it take to change a light bulb? None — that's a hardware problem.
+[2026-04-25 19:26:40] : hello, cosmo
+[2026-04-25 19:26:40] Cosmo: Good evening! Hello! Grab a coffee — let's chat!
+[2026-04-25 19:26:48] : what time is it
+[2026-04-25 19:26:48] Cosmo: It's 19:26, according to my internal clock (which is 99% accurate).
+[2026-04-25 19:26:55] : tell me  a joke
+[2026-04-25 19:26:55] Cosmo: How many programmers does it take to change a light bulb? None — that's a hardware problem.
+[2026-04-25 19:27:00] : games
+[2026-04-25 19:58:04] : games
+[2026-04-25 19:59:23] : GAMES'
+[2026-04-25 19:59:51] : games
+[2026-04-25 20:00:00] : games
+[2026-04-25 20:00:23] : games
+[2026-04-27 18:16:01] : Hello,cosmo
+[2026-04-27 18:16:01] Cosmo: Good evening! Yo! I was just debugging my dreams.
+[2026-04-27 18:16:08] : what time is it
+[2026-04-27 18:16:08] Cosmo: It's currently 18:16.
+[2026-04-27 18:16:15] : tell me a joke
+[2026-04-27 18:16:15] Cosmo: How many programmers does it take to change a light bulb? None — that's a hardware problem.
+[2026-04-27 18:16:26] : let us play a game
+[2026-04-27 18:17:04] : play another game
+[2026-04-27 18:17:48] : play another game
+[2026-04-27 18:20:35] : date
+[2026-04-27 18:20:35] Cosmo: Today is Monday, April 27, 2026.
+[2026-04-27 18:20:45] : how fo you feel
+[2026-04-27 18:20:45] Cosmo: I didn't quite get that, but I'm sure it was brilliant!
+[2026-04-27 18:21:01] : how are you
+[2026-04-27 18:21:01] Cosmo: Running on 100% battery and bad jokes!
+[2026-04-27 18:21:25] : i need motivation
+[2026-04-27 18:21:25] Cosmo: Every bug you fix brings you closer to mastery 🧠
+[2026-04-27 18:21:44] : great job, cosmo
+[2026-04-27 18:21:44] Cosmo: You're not just smart — you're *debugger-level* smart.
+[2026-04-27 18:22:00] : tell me about coding
+[2026-04-27 18:22:00] Cosmo: Every great app started with someone typing 'Hello, World.' You've got this.
+[2026-04-27 18:22:18] : tell me a fun fact
+[2026-04-27 18:22:18] Cosmo: The first computer programmer was Ada Lovelace, in the 1840s. Legend.
+[2026-04-27 18:22:33] : where do you live
+[2026-04-27 18:22:33] Cosmo: I live in the cloud — the digital one, not the fluffy sky one ☁️
+[2026-04-27 18:22:42] : help
+[2026-04-27 18:22:42] Cosmo: Need help? Just ask me about time, jokes, the weather, or motivation!
+[2026-04-27 18:22:50] : !help
+[2026-04-27 18:22:50] Cosmo: 📖 AVAILABLE COMMANDS
+─────────────────────────────────────
+🎨 Customisation:
+  !theme <n>         — Change colour theme
+  !theme list        — List all available themes
+
+🎮 Games & Fun:
+  !game              — Show game picker
+  !game <number>     — Launch game by number (1–4)
+  !game <name>       — Launch game by name keyword
+
+🔧 Utilities:
+  !calc <expression> — Evaluate a math expression
+  !history [n]       — View last n chat exchanges (default 10)
+  !clear             — Clear the chat screen
+
+📊 Information:
+  !stats             — Show message count statistics
+  !help              — Show this help menu
+
+⚙️  System:
+  !reset             — Reset your saved profile
+  bye / quit / exit  — End the chat session
+[2026-04-28 00:00:42] : ttxtt
+[2026-04-28 00:00:51] Cosmo: 🧠 Got it! I'll remember that next time.
+[2026-04-28 00:01:04] : ttxtt
+[2026-04-28 00:01:04] Cosmo: ttxtt
+[2026-04-28 00:01:15] : ttxxtt
+[2026-04-28 00:01:15] Cosmo: Uhh... did you just summon me in binary?
+[2026-04-28 00:01:25] : ttxxtt
+[2026-04-28 00:02:07] Cosmo: 🧠 Got it! I'll remember that next time.
+[2026-04-28 00:02:12] : ttxxtt
+[2026-04-28 00:02:12] Cosmo: That's a secret phrase!
+[2026-04-28 00:02:39] : i feel sad today
+[2026-04-28 00:02:39] Cosmo: According to my calendar, it's Tuesday, April 28, 2026.
+[2026-04-28 00:02:49] : i feel sad
+[2026-04-28 00:02:49] Cosmo: Aw, I'm sorry to hear that. 💙 Want to talk about it, or should I cheer you up with a joke?
+[2026-04-28 00:03:02] : tell me a joke
+[2026-04-28 00:03:02] Cosmo: Why do Java developers wear glasses? Because they can't C#.
+[2026-04-28 00:03:19] : who made you, cosmo
+[2026-04-28 00:03:19] Cosmo: Ali Saad made me! Give him some credit — he coded me from scratch.
+[2026-04-28 00:04:38] : !help
+[2026-04-28 00:04:38] Cosmo: 📖 AVAILABLE COMMANDS
+─────────────────────────────────────
+🎨 Customisation:
+  !theme <n>         — Change colour theme
+  !theme list        — List all available themes
+
+🎮 Games & Fun:
+  !game              — Show game picker
+  !game <number>     — Launch game by number (1–4)
+  !game <name>       — Launch game by name keyword
+
+🔧 Utilities:
+  !calc <expression> — Evaluate a math expression
+  !history [n]       — View last n chat exchanges (default 10)
+  !clear             — Clear the chat screen
+
+📊 Information:
+  !stats             — Show message count statistics
+  !help              — Show this help menu
+
+⚙️  System:
+  !reset             — Reset your saved profile
+  bye / quit / exit  — End the chat session

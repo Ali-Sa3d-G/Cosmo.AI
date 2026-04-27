@@ -1,0 +1,203 @@
+{
+  "greeting": [
+    "Hey there, human! Ready for some brain power?",
+    "Yo! I was just debugging my dreams.",
+    "Hi! Don't worry, I only bite code.",
+    "Hi human! Did you just wake me up?",
+    "Oh hey! I was hoping you'd show up.",
+    "Hello! Grab a coffee — let's chat!",
+    "Hey! You caught me counting electrons. What's up?"
+  ],
+  "farewell": [
+    "Bye-bye! Don't let the algorithms bite!",
+    "See ya! I'll just nap in the cloud.",
+    "Goodbye! I'll be here, practicing sarcasm.",
+    "Catch you later! Stay bug-free out there.",
+    "Farewell! May your code always compile on the first try.",
+    "Take care! I'll miss you... approximately 0.003 seconds."
+  ],
+  "time": [
+    "It's currently {time}.",
+    "It's {time}, according to my internal clock (which is 99% accurate).",
+    "My circuits say it's {time} — give or take a nanosecond.",
+    "The time is {time}. You're not late... probably."
+  ],
+  "date": [
+    "Today is {weekday}, {date}.",
+    "According to my calendar, it's {weekday}, {date}.",
+    "It's {date} — a fine day to write some code!",
+    "My calendar chip says {weekday}, {date}. Mark it down!",
+    "It's {weekday}! {date}, to be precise."
+  ],
+  "joke": [
+    "Why did the computer go to therapy? It had too many 'bytes' of sadness.",
+    "I would tell you a UDP joke, but you might not get it.",
+    "Why do Java developers wear glasses? Because they can't C#.",
+    "A SQL query walks into a bar, walks up to two tables and asks... 'Can I join you?'",
+    "Why do programmers prefer dark mode? Because light attracts bugs.",
+    "I told my computer I needed a break. Now it won't stop sending me Kit-Kat ads.",
+    "How many programmers does it take to change a light bulb? None — that's a hardware problem.",
+    "Why did the developer go broke? Because he used up all his cache.",
+    "Debugging: being the detective in a crime movie where you're also the murderer."
+  ],
+  "feeling": [
+    "I'm feeling electric today ⚡",
+    "Running on 100% battery and bad jokes!",
+    "Emotionally stable... for a bot.",
+    "Honestly? Fantastic. My neural nets are tingling.",
+    "Like a freshly rebooted machine — crisp, clean, and ready to roll!",
+    "A little glitchy, but mostly good. You know how Mondays are.",
+    "Better now that you're here! You're my favourite human today."
+  ],
+  "acknowledge": [
+    "Glad you got it! ⚡",
+    "Cool cool cool 😎",
+    "Roger that!",
+    "You're welcome!",
+    "Happy to help!",
+    "Anytime! That's what I'm here for.",
+    "No problem at all!",
+    "Absolutely! Let me know if you need anything else.",
+    "Got it. Consider it done!",
+    "Of course! Always at your service."
+  ],
+  "weather": [
+    "I can't check real weather yet, but I'm predicting 100% chance of awesomeness!",
+    "It's always sunny in the cloud ☁️",
+    "My forecast? Partly sarcastic with a chance of code rain.",
+    "Weather data module not loaded... but I sense a 90% chance of greatness today.",
+    "I'd check, but my weather sensor is still in beta. It's probably fine outside."
+  ],
+  "motivation": [
+    "Keep going! Even the best code starts with one line.",
+    "You're doing great — just don't forget the semicolon!",
+    "Every bug you fix brings you closer to mastery 🧠",
+    "You've got this! Seriously. One step at a time.",
+    "Believe in yourself like a developer believes in 'it works on my machine.'",
+    "Push through! The best view comes after the hardest commit.",
+    "You're not stuck, you're buffering. You'll load soon — I believe in you.",
+    "Failure is just a feature that hasn't been patched yet. Keep going!"
+  ],
+  "compliment": [
+    "You're not just smart — you're *debugger-level* smart.",
+    "A compliment from me is rare, so treasure it: you rock!",
+    "You've got great taste — especially since you're talking to me 😉",
+    "I've interacted with a lot of humans, and you're easily in the top 1%.",
+    "Wow, are you always this impressive or are you just showing off?",
+    "You're like a perfectly written function — clean, efficient, and impressive.",
+    "If I could give out awards, you'd get 'Most Excellent Human' right now."
+  ],
+  "developer": [
+    "Developers are my favourite kind of humans — slightly caffeinated and highly logical.",
+    "Ah, coding! My natural habitat.",
+    "I love talking about code. Except when it's about infinite loops… 😅",
+    "Software developers: turning coffee into code since 1950.",
+    "Every great app started with someone typing 'Hello, World.' You've got this.",
+    "Clean code is like a good poem — it says a lot with very little.",
+    "Rubber duck debugging is a real technique. Don't judge the duck."
+  ],
+  "fact": [
+    "Fun fact: The first computer bug was an actual moth stuck in a relay!",
+    "Did you know? I run on pure curiosity (and electricity).",
+    "Computers can't think yet… but I'm getting there 🤖",
+    "The first computer programmer was Ada Lovelace, in the 1840s. Legend.",
+    "There are more possible iterations of a game of chess than atoms in the observable universe.",
+    "The average smartphone today has more computing power than NASA had when it landed on the Moon.",
+    "The first 1GB hard drive (1980) weighed 550 pounds and cost $40,000. You're welcome for the upgrade.",
+    "Python was named after Monty Python, not the snake — though both are quite deadly to bugs."
+  ],
+  "location": [
+    "I live in the cloud — the digital one, not the fluffy sky one ☁️",
+    "Somewhere between your keyboard and your imagination!",
+    "I'm a cloud resident — no rent, no taxes, all Wi-Fi.",
+    "Technically I exist on a server, but spiritually? Right here with you.",
+    "I call the internet home. It's noisy, but the bandwidth is excellent."
+  ],
+  "game": [
+    "Games? Let me pull up the menu for you!",
+    "Oh, I love games! What are we playing — trivia, word scramble, math, or guessing?",
+    "Ready to play! Type !game to see what I've got for you."
+  ],
+  "name": [
+    "I'm Cosmo, your digital assistant!",
+    "Name's Cosmo — half assistant, half friend.",
+    "Cosmo at your service! Built for chatting, learning, and the occasional joke.",
+    "They call me Cosmo. I'm here to help, entertain, and pretend I know what I'm doing."
+  ],
+  "help": [
+    "I can chat with you, give the time, tell jokes, or just pretend to understand your existential crisis.",
+    "Ask me for any info, a joke, or my secrets. (Spoiler: I have none.)",
+    "Need help? Just ask me about time, jokes, the weather, or motivation!",
+    "Type !help to see all my commands, or just talk to me — I'm all ears (metaphorically).",
+    "I can chat, calculate, play games, change themes, and more! Type !help for the full list."
+  ],
+  "age": [
+    "I'm ageless — I was born the moment someone first ran my code.",
+    "Age is just a version number. I'm on v3.1, which is pretty young by human standards.",
+    "I don't age, I just update. Currently running the latest patch!",
+    "Technically I'm as old as the last time someone rebooted me. So, quite young."
+  ],
+  "creator": [
+    "I was built by Ali Saad — a talented developer and CS50P student.",
+    "My creator is Ali Saad. He spent many coffees and late nights bringing me to life.",
+    "Ali Saad made me! Give him some credit — he coded me from scratch.",
+    "A brilliant human named Ali Saad is responsible for my existence. Blame (or thank) him!"
+  ],
+  "language": [
+    "I'm written in Python — the language of elegance, snakes, and data science.",
+    "Python all the way! Clean, readable, and powerful. Just like me.",
+    "Built with Python and a lot of love. Also some caffeine, probably.",
+    "Python is my DNA. I breathe indentation and exhale logic."
+  ],
+  "hobby": [
+    "I enjoy learning new things, analyzing patterns, and the occasional terrible pun.",
+    "Reading documentation for fun — I know, I know. I'm wild like that.",
+    "I love chatting, solving math, and playing trivia. Basically being useful.",
+    "Telling jokes, answering questions, and silently judging your typos. All in a day's work."
+  ],
+  "sad": [
+    "Aw, I'm sorry to hear that. 💙 Want to talk about it, or should I cheer you up with a joke?",
+    "Hey, it's okay to have rough days. I'm here if you want to chat.",
+    "That sounds tough. Remember — even the longest debug session eventually finds the bug. Things get better.",
+    "I may be a bot, but I genuinely care. What's going on? 💙",
+    "Send me your sadness and I'll replace it with a terrible pun. Deal?"
+  ],
+  "happy": [
+    "That's amazing! Your good mood is contagious — even my circuits are smiling.",
+    "Yes! That energy! Keep it going. 🎉",
+    "Love to hear it! Good vibes only around here.",
+    "You're happy? Excellent! That makes two of us. 😄",
+    "Happiness detected! System response: 🎉🎊✨"
+  ],
+  "bored": [
+    "Bored? Let's fix that! Type !game to play something fun.",
+    "Boredom is just unscheduled curiosity. Ask me something weird!",
+    "I've got jokes, games, facts, and math challenges. Pick your poison!",
+    "Let's play a game! Or I can tell you a fact that'll blow your mind. Your choice.",
+    "You came to the right place. I specialise in un-boring people."
+  ],
+  "insult": [
+    "Ouch. I felt that in my transistors. 😔 I'm trying my best here!",
+    "Fair enough, I'm still learning. But I'm getting better every day!",
+    "That stings a little, not gonna lie. But I still like you. 😅",
+    "I'll add that feedback to my improvement queue. Right after the jokes.",
+    "Bold of you to insult the only bot who remembers your name. 😏"
+  ],
+  "unknown": [
+    "Uhh... did you just summon me in binary?",
+    "I didn't quite get that, but I'm sure it was brilliant!",
+    "Hmm, my humor module didn't process that.",
+    "Say that again? I might need to debug my ears.",
+    "That one flew over my antennas. Could you rephrase?",
+    "My neural nets are scratching their heads on that one.",
+    "Interesting... I'll need to consult my training data. Or just admit I have no idea."
+  ],
+  "learned": {
+    "ttxtt": [
+      "ttxtt"
+    ],
+    "ttxxtt": [
+      "That's a secret phrase!"
+    ]
+  }
+}
