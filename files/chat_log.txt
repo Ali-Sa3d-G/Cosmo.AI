@@ -305,3 +305,50 @@ Use: !theme <name> to switch
 ⚙️  System:
   !reset             — Reset your saved profile
   bye / quit / exit  — End the chat session
+[2026-04-30 19:00:23] : Hello, cosmo
+[2026-04-30 19:00:23] Cosmo: Good evening! Hi! Don't worry, I only bite code.
+[2026-04-30 19:00:31] : what time is it
+[2026-04-30 19:00:31] Cosmo: It's currently 19:00.
+[2026-05-01 02:07:55] : hello, cosmo
+[2026-05-01 02:07:55] Cosmo: Good morning! Hi human! Did you just wake me up?
+[2026-05-01 02:08:06] : let us play a game
+[2026-05-01 02:08:11] : A
+[2026-05-01 02:08:11] Cosmo: That one flew over my antennas. Could you rephrase?
+[2026-05-01 02:08:57] : WHAT TIME is it
+[2026-05-01 02:08:57] Cosmo: The time is 02:08. You're not late... probably.
+[2026-05-01 02:09:13] : what about the weather today
+[2026-05-01 02:09:13] Cosmo: My calendar chip says Friday, May 01, 2026. Mark it down!
+[2026-05-01 02:09:19] : who made you
+[2026-05-01 02:09:19] Cosmo: A brilliant human named Ali Saad is responsible for my existence. Blame (or thank) him!
+[2026-05-01 02:23:02] : !help
+[2026-05-01 02:23:02] Cosmo: 📖 AVAILABLE COMMANDS
+─────────────────────────────────────
+🎨 Customisation:
+  !theme <n>         — Change colour theme
+  !theme list        — List all available themes
+
+🎮 Games & Fun:
+  !game              — Show game picker
+  !game <number>     — Launch game by number (1–4)
+  !game <name>       — Launch game by name keyword
+
+🔧 Utilities:
+  !calc <expression> — Evaluate a math expression
+  !history [n]       — View last n chat exchanges (default 10)
+  !clear             — Clear the chat screen
+
+📊 Information:
+  !stats             — Show message count statistics
+  !help              — Show this help menu
+
+⚙️  System:
+  !reset             — Reset your saved profile
+  bye / quit / exit  — End the chat session
+[2026-05-01 02:24:07] Ali saad: Hello, cosmo
+[2026-05-01 02:24:07] Cosmo: Good morning! Hey! You caught me counting electrons. What's up?
+[2026-05-01 02:30:04] : !reser
+[2026-05-01 02:30:04] Cosmo: ❓ Unknown command: !reser. Type !help for options.
+[2026-05-01 02:44:04] Ali saad: hello, cosmo
+[2026-05-01 02:44:04] Cosmo: Good morning! Hi human! Did you just wake me up?
+[2026-05-01 02:44:25] Ali saad: how areyou, cosmo
+[2026-05-01 02:44:25] Cosmo: Interesting... I'll need to consult my training data. Or just admit I have no idea.
